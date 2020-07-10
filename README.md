@@ -1,6 +1,6 @@
 # Rafael Augusto Oliveira 🤓
 
-## Hi there 👋! Welcome to my profile!
+## Hi there 👋, welcome to my universe!
 
 Here something about me:
 
