@@ -10,7 +10,7 @@
 About me:
 
 - 🔭 I’m currently working on a .NET Core bot based on [Selenium Web Driver API](https://www.selenium.dev/selenium/docs/api/dotnet/)
-- 🌱 I’m currently sharping my .NET and Python Skills
+- 🌱 I’m also sharpening my .NET and Python Skills
 - 👯 I’m looking to use my C# knowledge to collaborate with other developers
 
 I'm a full-stack developer: 
