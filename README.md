@@ -1,4 +1,4 @@
-# Rafael Augusto Oliveira 🤓
+# [![GitHub followers](https://img.shields.io/github/followers/tetration.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tetration?tab=followers) Rafael Augusto Oliveira 🤓
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tetration)](https://github.com/tetration)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-augusto-o-56810561rafael-augusto-o-56810561/)](https://www.linkedin.com/in/rafael-augusto-o-56810561/)
@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/r_augustus4/)](https://www.instagram.com/r_augustus4/)
 ## Hi there 👋, welcome to my universe!
 
-https://img.shields.io/github/followers/tetration?style=social
+
 Here something about me:
 
 - 🔭 I’m currently working on a .NET Core bot based on [Selenium Web Driver API](https://www.selenium.dev/selenium/docs/api/dotnet/)
