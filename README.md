@@ -12,7 +12,7 @@ And I'm a full-stack developer:
  - 💜 In love with C#, always
  - 😁 Currently specializing in C#, .NET Core and Azure
  - ❤️ I'm also in love with Javascript/Typescript too
- - 🚀 Dreaming of reaching above and beyond with my skills someday!
+ - 🚀 Dreaming of reaching above and beyond with my coding skills someday!
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tetration)](https://github.com/tetration)
