@@ -7,13 +7,13 @@
 ## Hi there 👋, welcome to my universe!
 
 
-Here something about me:
+About me:
 
 - 🔭 I’m currently working on a .NET Core bot based on [Selenium Web Driver API](https://www.selenium.dev/selenium/docs/api/dotnet/)
 - 🌱 I’m currently sharping my .NET and Python Skills
 - 👯 I’m looking to use my C# knowledge to collaborate with other developers
 
-And I'm a full-stack developer: 
+I'm a full-stack developer: 
  - 💜 In love with C#, always
  - 😁 Currently specializing in C#, .NET Core and Azure
  - ❤️ I'm also in love with Javascript/Typescript too
