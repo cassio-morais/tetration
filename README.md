@@ -9,7 +9,7 @@
 
 **About me:**
 
-![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=tetration&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 - 🔭 I’m currently working on a .NET Core bot based on [Selenium Web Driver API](https://www.selenium.dev/selenium/docs/api/dotnet/)
 - 🌱 I’m also sharpening my .NET and Python Skills
