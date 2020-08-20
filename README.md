@@ -7,7 +7,7 @@
 ## Hi there 👋, welcome to my universe!
 
 
-About me:
+**About me:**
 
 ![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
@@ -15,7 +15,7 @@ About me:
 - 🌱 I’m also sharpening my .NET and Python Skills
 - 👯 I’m looking to use my C# knowledge to collaborate with other developers
 
-I'm a full-stack developer: 
+**I'm a full-stack developer:**
 
 ![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetration&hide=javascript,html&theme=radical&layout=compact)
 
