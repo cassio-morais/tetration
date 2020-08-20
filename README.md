@@ -8,14 +8,18 @@
 
 
 About me:
+
 ![stats](https://github-readme-stats.vercel.app/api?username=dwisiswant0&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
 - 🔭 I’m currently working on a .NET Core bot based on [Selenium Web Driver API](https://www.selenium.dev/selenium/docs/api/dotnet/)
 - 🌱 I’m also sharpening my .NET and Python Skills
 - 👯 I’m looking to use my C# knowledge to collaborate with other developers
 
 I'm a full-stack developer: 
+
 ![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetration&hide=javascript,html&theme=radical&layout=compact)
- - 💜 In love with C#, always
+
+- 💜 In love with C#, always
  - 😁 Currently specializing in C#, .NET Core and Azure
  - ❤️ I'm also in love with Javascript/Typescript too
  - 🚀 Dreaming of reaching above and beyond with my coding skills someday!
